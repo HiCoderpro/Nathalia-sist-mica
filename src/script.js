@@ -19,18 +19,20 @@ function login() {
     //console.log(imagemUsuario)
 
     if (pesquisarimg <= 1){
-      let pnumero1 = '1 PERGUNTAS SISTEMICAS QUAL E SUA MOTIVAÇAO EM ESTAR AQUI? OQUE VOCE QUER ENXERGAR? OQUE EU TERIA QUE SABER COMO FACILITADO(a) PARA PODER TRABALHAR NA SUA QUESTAO? '
 
         console.log('UP')
         document.getElementById('pesquisarimg').value = '';
         //document.getElementById("imagem01").innerHTML = "<img src='https://i.ibb.co/CsG8wfg/img16.png' width='250' >"
-        document.getElementById("semitica").innerHTML = "<p>QUAL E SUA MOTIVAÇAO EM ESTAR AQUI?</>"
-        document.getElementById("semitica1").innerHTML = "<p>OQUE VOCE QUER ENXERGAR?</>"
-        document.getElementById("semitica2").innerHTML = "<p>OQUE EU TERIA QUE SABER COMO FACILITADO(a)</>"
-        document.getElementById("semitica3").innerHTML = "<p>PARA PODER TRABALHAR NA SUA QUESTAO?</>"
+        document.getElementById("semitica").innerHTML = "<p>Calma um Passo de cada Vez kkk Digite 2</>"
+
     }
     else if(pesquisarimg == 2){
-        document.write("<img src='https://i.ibb.co/CsG8wfg/img16.png' width='250'")
+
+      document.write("<center> <b>1 PERGUNTAS SISTEMICAS</b></center> ")      
+      document.write("<center> Ola Usuario seja bem vindo ")
+      document.write("<br> ")
+      document.write("Em teste se uso imagem ou texto aqui nesse local </center> ")
+
         
     }
     else {
