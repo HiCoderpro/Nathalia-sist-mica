@@ -28,17 +28,21 @@ function login() {
     else if(pesquisarimg == 2){
 
       //document.write("<center><img src='img/1p.jpg' class='herry' id=herry' width=400 'align='middle'></center>")
-      document.writeln('Criar proximas imagens Digite 1 para Ver imagem concluida!')      
+        document.write("<center><img src='img/2.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
 
       
+    }
+
+    else if(pesquisarimg == 3) {
+      document.write("<center><img src='img/3.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
     }
     else {
         console.log('Digite um numero de 1 a 100')
         alert("Digite um numero de 1 a 100")
         document.getElementById('pesquisarimg').value = '';
 
-    }
-    
+    }    
 
 
 
