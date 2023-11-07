@@ -18,22 +18,19 @@ function login() {
 
     //console.log(imagemUsuario)
 
-    if (pesquisarimg <= 1){
+    if (pesquisarimg == 1){
 
         console.log('UP')
         document.getElementById('pesquisarimg').value = '';
-        //document.getElementById("imagem01").innerHTML = "<img src='https://i.ibb.co/CsG8wfg/img16.png' width='250' >"
-        document.getElementById("semitica").innerHTML = "<p>Calma um Passo de cada Vez kkk Digite 2</>"
+        document.write("<center><img src='img/1p.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
 
     }
     else if(pesquisarimg == 2){
 
-      document.write("<center> <b>1 PERGUNTAS SISTEMICAS</b></center> ")      
-      document.write("<center> Ola Usuario seja bem vindo ")
-      document.write("<br> ")
-      document.write("Em teste se uso imagem ou texto aqui nesse local </center> ")
+      //document.write("<center><img src='img/1p.jpg' class='herry' id=herry' width=400 'align='middle'></center>")
+      document.writeln('Criar proximas imagens Digite 1 para Ver imagem concluida!')      
 
-        
+      
     }
     else {
         console.log('Digite um numero de 1 a 100')
