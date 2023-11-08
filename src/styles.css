@@ -24,8 +24,8 @@ body {
 
   input {
     width: 100%;
-    padding: 10px;
-    margin: 8px 0;
+    padding: 8px;
+    margin: 8px ;
     box-sizing: border-box;
   }
 
@@ -42,11 +42,12 @@ body {
   button:hover {
     background-color: #5421e0;
   }
+  /*Configuraçao da div pagina cartas */
   .Cartaspesquisas{
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(156, 150, 150, 0.1);
     width: 50%;
     text-align: center;
 
@@ -60,10 +61,6 @@ body {
   h1{
     text-align: center;
     font-family:courier,arial,helvetica;
-  }
-  .imagem01{
-    text-align: center;
-
   }
   p{
     text-align: center;
