@@ -9,13 +9,11 @@
 
         console.log('UP')
         document.getElementById('pesquisarimg').value = '';
-        document.write("<center><img src='img/1p.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+        document.write("<center><img src='img/1.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
 
     }
     else if(pesquisarimg == 2){
-
-      //document.write("<center><img src='img/1p.jpg' class='herry' id=herry' width=400 'align='middle'></center>")
-        document.write("<center><img src='img/2.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+      document.write("<center><img src='img/2.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
 
       
     }
@@ -52,6 +50,52 @@
       document.write("<center><img src='img/10.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
     
     }
+    if (pesquisarimg == 11){
+
+      console.log('UP')
+      document.getElementById('pesquisarimg').value = '';
+      document.write("<center><img src='img/11.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+
+    }
+    else if(pesquisarimg == 12){
+        document.write("<center><img src='img/12.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+
+      
+    }
+
+    else if(pesquisarimg == 13) {
+      document.write("<center><img src='img/13.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 14) {
+      document.write("<center><img src='img/14.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 15) {
+      document.write("<center><img src='img/15.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 16) {
+      document.write("<center><img src='img/16.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 17) {
+      document.write("<center><img src='img/17.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 18) {
+      document.write("<center><img src='img/18.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 19) {
+      document.write("<center><img src='img/19.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+    else if(pesquisarimg == 20) {
+      document.write("<center><img src='img/20.jpg' class='herry' id=herry' width=400 'align='middle'></center>")  
+    
+    }
+
     else {
         console.log('Digite um numero de 1 a 100')
         alert("Digite um numero de 1 a 100")
