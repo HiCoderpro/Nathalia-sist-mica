@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(250, 241, 241);
+    color: #eb0b7b; /* Cor verde para o texto */
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 20em;
+    margin-bottom: 20px;
+}
+
+#countdown {
+    display: flex;
+    justify-content: space-around;
+}
+
+.timer {
+    background-color: #f7f6f6;
+    padding: 20px;
+    margin: 0 10px;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+._null{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
