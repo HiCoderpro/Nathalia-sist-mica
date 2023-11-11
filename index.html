@@ -1,47 +1,30 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="src/index.css">
-    <title>Constelação Familiar Sistêmica</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel de acesso</title>
+  <link rel="shortcut icon" type="imagex/png" href="./img/ico.ico">
+  <link rel="stylesheet" href="src/styles.css">
 
 </head>
-
 <body>
-   <section class="hidden">
-        <h2>Constelação Familiar Sistêmica</h2>
-        <p>Bem-vindo ao mundo transformador da Constelação Familiar Sistêmica, uma abordagem terapêutica única e envolvente projetada para desvendar os segredos por trás dos padrões familiares e emocionais que influenciam a sua vida...</p>
-   </section>
 
-   <section class="hidden">
-        <h2>Sobre Mim</h2>
+  <div class="login-container">
+    <img src="src/logo.png" class="logobruxa" id="bruxalogo">
 
-   </section>
+    <h2>Entrar</h2>
+    <div>
+      <label for="username">Usuário:</label>
+      <input type="text" id="username" placeholder="Digite o usuário">
+    </div>
+    <div>
+      <label for="password">Senha:</label>
+      <input type="password" id="password" placeholder="Digite a senha">
+    </div>
+    <button onclick="login()">Entrar</button>
+  </div>
+  <script src="src/index.js"></script>
 
-   <section class="hidden">
-    <img src="src/imgpref/nath.jpeg" alt="" width="400" height="400">
-   </section>
-   <section>
-        <h2>Users</h2>
-        <div class="logos">
-            <div class="hidden">
-                <img class="avatar" src="https://robohash.org/1MB.png" alt="">
-            </div>
-            <div class="hidden">
-                <img class="avatar" src="https://robohash.org/2MB.png" alt="">
-            </div>
-            <div class="hidden">
-                <img class="avatar" src="https://robohash.org/3MB.png" alt="">
-            </div>
-            <div class="hidden">
-                <img class="avatar" src="https://robohash.org/4MB.png" alt="">
-            </div>
-
-        </div>
-   </section>
 </body>
-<script src="src/index2.js"></script>
-
 </html>
