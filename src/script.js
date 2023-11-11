@@ -405,7 +405,189 @@ function buscar() {
     document.write(
       "<center><img src='img/70.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
     );
+    return;
   }
+  else if (pesquisarimg == 71) {
+    document.write(
+      "<center><img src='img/71.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 72) {
+    document.write(
+      "<center><img src='img/72.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 73) {
+    document.write(
+      "<center><img src='img/73.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 74) {
+    document.write(
+      "<center><img src='img/74.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 75) {
+    document.write(
+      "<center><img src='img/75.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 76) {
+    document.write(
+      "<center><img src='img/76.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 77) {
+    document.write(
+      "<center><img src='img/77.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 78) {
+    document.write(
+      "<center><img src='img/78.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 79) {
+    document.write(
+      "<center><img src='img/79.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 80) {
+    document.write(
+      "<center><img src='img/80.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 81) {
+    document.write(
+      "<center><img src='img/81.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 82) {
+    document.write(
+      "<center><img src='img/82.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 83) {
+    document.write(
+      "<center><img src='img/83.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 84) {
+    document.write(
+      "<center><img src='img/84.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 85) {
+    document.write(
+      "<center><img src='img/85.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 86) {
+    document.write(
+      "<center><img src='img/86.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 87) {
+    document.write(
+      "<center><img src='img/87.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 88) {
+    document.write(
+      "<center><img src='img/88.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 89) {
+    document.write(
+      "<center><img src='img/89.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 90) {
+    document.write(
+      "<center><img src='img/90.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 91) {
+    document.write(
+      "<center><img src='img/91.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 92) {
+    document.write(
+      "<center><img src='img/92.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 93) {
+    document.write(
+      "<center><img src='img/93.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 94) {
+    document.write(
+      "<center><img src='img/94.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 95) {
+    document.write(
+      "<center><img src='img/95.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 96) {
+    document.write(
+      "<center><img src='img/96.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 97) {
+    document.write(
+      "<center><img src='img/97.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 98) {
+    document.write(
+      "<center><img src='img/98.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 99) {
+    document.write(
+      "<center><img src='img/99.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+  else if (pesquisarimg == 100) {
+    document.write(
+      "<center><img src='img/100.jpg' class='herry' id=herry' width=400 'align='middle'></center>"
+    );
+    return;
+  }
+
   //Tratando erro
 
   else {
